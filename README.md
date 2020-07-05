@@ -1,6 +1,6 @@
 ## Ilja Gonciarov
 
-Enthusiastic and energetic brand new Full Stack Junior Developer backed by 10 years of experience in media as an editor and journalist. Good at problem-solving, fact-checking, as well as explaining complicated things in simple words and edit text (or code) to make it readable and understandable. 
+Brand new Full Stack Junior Developer backed by 10 years of experience in media as an editor and journalist. Good at problem-solving, fact-checking, as well as explaining complicated things in simple words and edit text (or code) to make it readable and understandable. 
 Started coding as a hobby during 2020 pandemic, joined Makers Academy tech bootcamp and making it a new profession.   
 
 ## Skills
@@ -22,7 +22,7 @@ I have read and edited hundreds of articles, understanding their value and inner
 
 When I just started my tech studies, I was doing Python lessons at the beginning and quickly switched to Ruby when decided to join Makers Academy. It took four days of intensive work to train myself to the level enough to pass the tests.
 
-Also, it was my routine as a journalist to learn something new from very different fields. When I worked on article, I could have been required to familiarize myrself quickly with current immigration law practice or property markets situation. To learn was my daily routine for years.
+Also, it was my routine as a journalist to learn something new from very different fields. When I worked on article, I could have been required to familiarize myrself quickly with something like current immigration law practice or property markets situation. Learning was my daily routine for years.
 
 #### Care about others
 I never forget that people will read my text/code afterwards. Even if it is just for peers (and not for thousands of readers), making things clear and correct before submitting was a part of my routine for years. 
