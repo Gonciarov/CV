@@ -33,13 +33,13 @@ Intensive full-time course of web development.
 
 #### September 2020:
 
-- Maelstrom (final course group project, JavaScript / React). A game with animation and sound, [see here](https://maelstrom-rpg.netlify.app/);
+- Maelstrom (final course group project, JavaScript / React). A game with animation and sound, [play here](https://maelstrom-rpg.netlify.app/);
 
 #### August 2020:
-- MakersBNB, AirBNB competitor (group learning project, Ruby, Postgresql), [see here](https://github.com/Gonciarov/makersbnb);
+- MakersBNB, AirBNB competitor (group learning project, Ruby, Postgresql), [book here](https://github.com/Gonciarov/makersbnb);
 
 #### July 2020:
-- Acebook, almost as good as Facebook but does not sell your data to anyone (group project, Rails), [see here](https://github.com/Gonciarov/acebook);
+- Acebook, almost as good as Facebook but does not sell your data to anyone (group project, Rails), [find your safe social platform here](https://github.com/Gonciarov/acebook);
 
 #### 2010-2020:
 
