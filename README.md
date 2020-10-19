@@ -53,7 +53,7 @@ Intensive full-time course of web development.
 
 #### 2010-2020:
 
-- to learn more about my previous career, please see my [LinkedIn profile](https://www.linkedin.com/in/ilja-gonciarov/)
+- to learn more about my previous career, please see my [LinkedIn profile](https://www.linkedin.com/in/ilja-gonciarov/);
 
 ## Hobbies
 
