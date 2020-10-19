@@ -23,7 +23,7 @@ Intensive full-time course of web development.
 
 - Journalism, media business, BA
 
-## Experience / projects in IT:
+## Experience / projects:
 
 #### October 2020: 
 
