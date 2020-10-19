@@ -33,7 +33,7 @@ Intensive full-time course of web development.
 
 #### September 2020:
 
-- Maelstrom (final course group project, JavaScript / React). A game with animation and sound, [play it here](https://maelstrom-rpg.netlify.app/);
+- Maelstrom (final course group project, JavaScript / React). A game with animation and sound, [play it here](https://github.com/Gonciarov/maelstrom);
 
 #### August 2020:
 - MakersBNB, AirBNB competitor (group learning project, Ruby, Postgresql), [see it here](https://github.com/Gonciarov/makersbnb);
