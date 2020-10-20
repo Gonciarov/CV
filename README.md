@@ -56,3 +56,12 @@ Intensive full-time course of web development.
 - For our final project (September 2020), our Makers team decided to use ReactJS which I have never used before and therefore found myself blocked in first days of work. To get familiar with the framework, I created a simple React notepad app using tutorial just in one day, and eventually managed to make my fair contribution to the project.
 
 - Also, learning new things from different fields has always been a part of my job as a journalist and editor. When I worked on article, I could have been required to familiarize myself quickly with something like current immigration law practice or property markets situation. Fast learning has been my daily routine for years.
+
+#### Team worker
+
+- I ask questions. Always prefer to ask someone more experienced rather than spend a day on resolving a technical issue by myself. It's not only about saving my time, it's about saving team's time.
+- Have 10 years of experience of team work, from small teams of 5 employees to giants like BBC;
+- Worked on different levels, from trainee to mid-senior roles;
+- Experienced in representing company on conferences and industry events;
+- Experienced in working with clients, can understand people's specific needs and expectations.
+
