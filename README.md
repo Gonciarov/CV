@@ -60,8 +60,8 @@ Intensive full-time course of web development.
 #### Team worker
 
 - I ask questions. Always prefer to ask someone more experienced rather than spend a day on resolving a technical issue by myself. It's not only about saving my time, it's about saving team's time.
-- Have 10 years of experience of team work, from small teams of 5 employees to giants like BBC;
-- Worked on different levels, from trainee to mid-senior roles;
-- Experienced in representing company on conferences and industry events;
+- Have 10 years of experience of team work, from small teams of 5 employees to giants like BBC.
+- Worked on different levels, from trainee to mid-senior roles.
+- Experienced in representing company on conferences and industry events.
 - Experienced in working with clients, can understand people's specific needs and expectations.
 
