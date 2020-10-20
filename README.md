@@ -1,7 +1,7 @@
 ## Ilja Gonciarov
 
 - Career-changer with 10 years of experience in media.
-- Finished full-time intensive web development course from [Makers Academy](https://makers.tech/) bootcamp this September and currently working on my first software project for Age UK charity. 
+- Finished full-time intensive web development course from [Makers Academy](https://makers.tech/) bootcamp this September and currently working on my first real software project for Age UK charity. 
 - Good at problem-solving and fact-checking, can explain complicated things in simple words and edit text or code to make it readable and understandable. 
 - Started coding as a hobby during 2020 pandemic, but took that too serious and now planning to make it a career.
 
