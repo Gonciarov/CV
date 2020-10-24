@@ -1,9 +1,13 @@
 ## Ilja Gonciarov
 
-- Career-changer with 10 years of experience in media.
-- Finished full-time intensive web development course from [Makers Academy](https://makers.tech/) bootcamp this September and currently working on my first real software project for Age UK charity. 
-- Good at problem-solving and fact-checking, can explain complicated things in simple words and edit text or code to make it readable and understandable. 
-- Started coding as a hobby during 2020 pandemic, but took that too serious and now planning to make it a career.
+In brief: 
+
+- brand new junior developer with 10 years of previous career in media environment;
+- alumnus of full-time intensive web development course from [Makers Academy](https://makers.tech/) bootcamp (September 2020);
+- currently IT-volunteering for Age UK charity, ready to get my first commercial experience;
+- good at problem-solving and fact-checking, can explain complicated things in simple words and edit text or code to make it readable and understandable;
+- highly experienced in meeting deadlines, communication with clients and stakeholders;
+- started coding as a hobby during 2020 pandemic;
 
 ## Projects
 
@@ -17,14 +21,20 @@
 
 ## Work experience
 
-### October 2020 -
+### October 2020 - present
 Volunteer group project for Age UK charity, working on creating a new volunteers management system (Ruby on Rails/Administrate), communicating with client to understand their needs, developing MVP (in progress);
 
 ### October 2019 - current
-Freelance digital content producer for BBC Russian service, ThinkTravelTech, ZIMA Magazine, Forbes Russia 
+Freelance digital content producer for BBC Russian service, ThinkTravelTech, ZIMA Magazine, Forbes Russia, based in London. Writing and editing text, photo and video content using wide range of software, taking part in team meetings, pitching my own ideas to editors and stakeholders, arranging meetings, interviewing, fact-checking.
 
-### October 2017 - October 2019
+### March 2017 - October 2019
+Editor, ZIMA Magazine, London
 
+run the whole media outlet, managed team of 10+ freelance workers, controlled web, social media and print production, worked together with IT team on website development and maintainance (WordPress), reported to directors, represented the company during industry events, meetings, conferences, ensured website traffic growth using Google Analytics, Facebook tools, SEO tools for WordPress.
+
+### Jan 2010 - March 2017
+Editor, Angliya newspaper, London
+Led a team of 6 people, managed the whole weekly newspaper's production process, web, print and social media, edited text, photo and video content, planned content schedule. As a client, developed newspaper's first website version along with devs team on Wordpress. 
 
 ## Education
 
@@ -44,45 +54,25 @@ Intensive full-time course of web development.
 
 - Journalism, media business, BA
 
-## Experience / projects:
-
-#### October 2020: 
-
-- Volunteer group project for Age UK charity, working on creating a new volunteers management system (Ruby on Rails/Administrate), communicating with client to understand their needs, developing MVP (in progress);
-
-- Insta-Clone, social media with comments, likes and followers (individual self-learning project, Rails + AWS, HTML/CSS + Bootstrap), [see it here](https://github.com/Gonciarov/instagram_clone);
-
-#### September 2020:
-
-- Maelstrom (final course group project, JavaScript / React). A game with animation and sound, [play it here](https://github.com/Gonciarov/maelstrom);
-
-#### August 2020:
-- MakersBNB, AirBNB competitor (group learning project, Ruby, Postgresql), [see it here](https://github.com/Gonciarov/makersbnb);
-
-#### July 2020:
-- Acebook, almost as good as Facebook but does not sell your data to anyone (group project, Rails), [see it here](https://github.com/Gonciarov/acebook);
-
-#### 2010-2020:
-
-- to learn more about my previous career, please see my [LinkedIn profile](https://www.linkedin.com/in/ilja-gonciarov/);
-
-## More about me
+## More about me (if you have one more minute)
 
 #### I learn quickly
 
-- In May 2020, I decided to start Makers Academy course one month earlier than I planned initially. For that, I had to quickly learn Ruby, as they test candidates tech skills in Ruby only and the deadline for passing the tests has been just in a week. Makers team suggested to take more time for preparation and join them one month later, but I wanted to start ASAP and learnt new language in a few days, to the level enough to pass the tests (those included classes and some maths methods).
+- For our final project (September 2020), our bootcamp team decided to use ReactJS which I have never used before and therefore found myself blocked in first days of work. To get familiar with the framework, I created a simple React notepad app using tutorial just in one day, and eventually managed to make my fair contribution to the project.
 
-- Before I even started my studies, I joint Codewars community and was able to solve 4kyu katas like [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) just in four days using new language.
+- Also, learning new things from different fields has always been a part of my job as a journalist and editor. When I worked on article, I could have been required to familiarize myself quickly with something like current immigration law practice or property markets situation. Sometimes I had only half a day to prepare for the interview with expert in some unfamiliar area like B2B-software, so I have a good experiences in grasping things fast. Urgent learning has been my daily routine for years.
 
-- For our final project (September 2020), our Makers team decided to use ReactJS which I have never used before and therefore found myself blocked in first days of work. To get familiar with the framework, I created a simple React notepad app using tutorial just in one day, and eventually managed to make my fair contribution to the project.
-
-- Also, learning new things from different fields has always been a part of my job as a journalist and editor. When I worked on article, I could have been required to familiarize myself quickly with something like current immigration law practice or property markets situation. Fast learning has been my daily routine for years.
+- Before I even started my tech studies, I joint Codewars community and was able to solve 4kyu katas like [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) just in four days using new language.
 
 #### Team worker
 
 - I ask questions. Always prefer to ask someone more experienced rather than spend a day on resolving a technical issue by myself. It's not only about saving my time, it's about saving team's time.
 - Have 10 years of experience of team work, from small teams of 5 employees to giants like BBC.
-- Worked on different levels, from trainee to mid-senior roles.
-- Experienced in representing company on conferences and industry events.
-- Experienced in working with clients, can understand people's specific needs and expectations.
+- Worked on different career levels, from trainee to mid-senior roles.
+- Experienced in representing the company during conferences and industry events.
 
+
+#### I have been in client's shoes
+
+- In my previous career, I communicated with devs as a client and know how non-technical people feel when dealing with IT in their business.
+- I am also experienced in working with clients as advertising partner and have good negotiating skills.
