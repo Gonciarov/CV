@@ -20,12 +20,12 @@
 ## Work experience
 
 ### October 2020 - present
-#### Software volunteer, Age UK
+#### Software volunteer, Age UK, London
 
 Volunteer group project for Age UK charity, working on creating a new volunteers management system (Ruby on Rails/Administrate), communicating with client to understand their needs, developing MVP (in progress).
 
 ### October 2019 - present
-#### Freelance digital content producer
+#### Freelance digital content producer, London
 
 Working for BBC Russian service, ThinkTravelTech, ZIMA Magazine, Forbes Russia, based in London. Writing and editing text, photo and video content using wide range of software, taking part in team meetings, pitching my own ideas to editors and stakeholders, arranging meetings, interviewing, fact-checking.
 
