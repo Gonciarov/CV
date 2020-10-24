@@ -1,7 +1,5 @@
 ## Ilja Gonciarov
 
-In brief: 
-
 - brand new junior developer with 10 years of previous career in media environment;
 - alumnus of full-time intensive web development course from [Makers Academy](https://makers.tech/) bootcamp (September 2020);
 - currently IT-volunteering for Age UK charity, ready to get my first commercial experience;
@@ -24,7 +22,7 @@ In brief:
 ### October 2020 - present
 Volunteer group project for Age UK charity, working on creating a new volunteers management system (Ruby on Rails/Administrate), communicating with client to understand their needs, developing MVP (in progress);
 
-### October 2019 - current
+### October 2019 - present
 Freelance digital content producer for BBC Russian service, ThinkTravelTech, ZIMA Magazine, Forbes Russia, based in London. Writing and editing text, photo and video content using wide range of software, taking part in team meetings, pitching my own ideas to editors and stakeholders, arranging meetings, interviewing, fact-checking.
 
 ### March 2017 - October 2019
