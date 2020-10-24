@@ -10,10 +10,10 @@
 | Name | Description | Technologies | When
 |---|---|---|---|
 | [FoodLeft](https://github.com/Gonciarov/foodleft) | Simple cooking app with API from Edamam | JavaScript, ReactJS, HTML/CSS | October 2020 |
-| [Insta-Clone](https://github.com/Gonciarov/instagram_clone) | Social media MVP with cloud storage | Ruby on Rails, JavaScript, PostgresQL, HTML/CSS/Bootstrap, Devise, CarrierWave/Fog/AWS, Heroku | October 2020 |
-| [Maelstrom](https://github.com/Gonciarov/maelstrom) | RPG with sound and animation | JavaScript, ReactJS, Jest | September 2020 |
-|[Acebook](https://github.com/Gonciarov/acebook)| Almost as good as Facebook, but no data collected | Rails | August 2020 |
-| [MakersBNB](https://github.com/Gonciarov/makersbnb) | Airbnb clone | Rails, Postgresql | August 2020 |
+| [Insta-Clone](https://github.com/Gonciarov/instagram_clone) | Social media MVP with cloud storage | Ruby on Rails, JavaScript, Postgresql, HTML/CSS/Bootstrap, Devise, CarrierWave/Fog/AWS, Heroku | October 2020 |
+| [Maelstrom](https://github.com/Gonciarov/maelstrom) | RPG with sound and animation, group project | JavaScript, ReactJS, Jest | September 2020 |
+|[Acebook](https://github.com/Gonciarov/acebook)| Almost as good as Facebook, but no data collected, group project | Rails | August 2020 |
+| [MakersBNB](https://github.com/Gonciarov/makersbnb) | Airbnb clone | Rails, Postgresql, group project | August 2020 |
 
 ## Work experience
 
