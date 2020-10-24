@@ -7,9 +7,28 @@
 
 ## Projects
 
-|Name|Description|Technologies |
-|---|---|---|
-| [FoodLeft](https://github.com/Gonciarov/foodleft) | Simple cooking app with API from Edamam | Javascript, ReactJS, HTML/CSS |
+| Name | Description | Technologies | When
+|---|---|---|---|
+| [FoodLeft](https://github.com/Gonciarov/foodleft) | Simple cooking app with API from Edamam | JavaScript, ReactJS, HTML/CSS | October 2020 |
+
+| [Insta-Clone](https://github.com/Gonciarov/instagram_clone) | Social media MVP with cloud storage | Ruby on Rails, JavaScript, PostgresQL, HTML/CSS/Bootstrap, Devise, CarrierWave/Fog/AWS, Heroku | October 2020 |
+
+| [Maelstrom](https://github.com/Gonciarov/maelstrom) | RPG with sound and animation | JavaScript, ReactJS, Jest | September 2020 |
+
+|[Acebook](https://github.com/Gonciarov/acebook)| Almost as good as Facebook, but no data collected | Rails | August 2020 |
+
+| [MakersBNB](https://github.com/Gonciarov/makersbnb) | Airbnb clone | Rails, Postgresql | August 2020 |
+
+## Work experience
+
+### October 2020 -
+Volunteer group project for Age UK charity, working on creating a new volunteers management system (Ruby on Rails/Administrate), communicating with client to understand their needs, developing MVP (in progress);
+
+### October 2019 - current
+Freelance digital content producer for BBC Russian service, ThinkTravelTech, ZIMA Magazine, Forbes Russia 
+
+### October 2017 - October 2019
+
 
 ## Education
 
