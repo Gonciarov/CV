@@ -5,7 +5,7 @@
 - currently IT-volunteering for Age UK charity, ready to get my first commercial experience;
 - good at problem-solving and fact-checking, can explain complicated things in simple words and edit text or code to make it readable and understandable;
 - highly experienced in meeting deadlines, communication with clients and stakeholders;
-- started coding as a hobby during 2020 pandemic;
+- started coding as a hobby during 2020 pandemic.
 
 ## Projects
 
@@ -22,7 +22,7 @@
 ### October 2020 - present
 #### Software volunteer, Age UK
 
-Volunteer group project for Age UK charity, working on creating a new volunteers management system (Ruby on Rails/Administrate), communicating with client to understand their needs, developing MVP (in progress);
+Volunteer group project for Age UK charity, working on creating a new volunteers management system (Ruby on Rails/Administrate), communicating with client to understand their needs, developing MVP (in progress).
 
 ### October 2019 - present
 #### Freelance digital content producer
