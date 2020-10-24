@@ -5,6 +5,12 @@
 - Good at problem-solving and fact-checking, can explain complicated things in simple words and edit text or code to make it readable and understandable. 
 - Started coding as a hobby during 2020 pandemic, but took that too serious and now planning to make it a career.
 
+## Projects
+
+|Name|Description|Technologies |
+|---|---|---|
+| [FoodLeft](https://github.com/Gonciarov/foodleft) | Simple cooking app with API from Edamam | Javascript, ReactJS, HTML/CSS |
+
 ## Education
 
 #### Makers Academy (June 2020 to September 2020)
