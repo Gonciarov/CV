@@ -20,22 +20,22 @@
 ## Work experience
 
 ### October 2020 - present
-Age UK, software volunteer
+#### Software volunteer, Age UK
 
 Volunteer group project for Age UK charity, working on creating a new volunteers management system (Ruby on Rails/Administrate), communicating with client to understand their needs, developing MVP (in progress);
 
 ### October 2019 - present
-Freelance digital content producer
+#### Freelance digital content producer
 
 Working for BBC Russian service, ThinkTravelTech, ZIMA Magazine, Forbes Russia, based in London. Writing and editing text, photo and video content using wide range of software, taking part in team meetings, pitching my own ideas to editors and stakeholders, arranging meetings, interviewing, fact-checking.
 
 ### March 2017 - October 2019
-Editor, ZIMA Magazine, London
+#### Editor, ZIMA Magazine, London
 
 run the whole media outlet, managed team of 10+ freelance workers, controlled web, social media and print production, worked together with IT team on website development and maintainance (WordPress), reported to directors, represented the company during industry events, meetings, conferences, ensured website traffic growth using Google Analytics, Facebook tools, SEO tools for WordPress.
 
 ### Jan 2010 - March 2017
-Editor, Angliya newspaper, London
+#### Editor, Angliya newspaper, London
 
 Led a team of 6 people, managed the whole weekly newspaper's production process, web, print and social media, edited text, photo and video content, planned content schedule. As a client, developed newspaper's first website version along with devs team on Wordpress. 
 
