@@ -5,7 +5,7 @@
 - currently IT-volunteering for Age UK charity, ready to get my first commercial experience;
 - good at problem-solving and fact-checking, can explain complicated things in simple words and edit text or code to make it readable and understandable;
 - highly experienced in meeting deadlines, communication with clients and stakeholders;
-- started coding as a hobby during 2020 pandemic.
+- happy to learn new languages and frameworks.
 
 ## Projects
 
