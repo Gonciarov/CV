@@ -2,7 +2,7 @@
 
 - brand new junior developer with 10 years of previous career in media environment;
 - alumnus of [Makers Academy](https://makers.tech/) bootcamp (September 2020);
-- currently IT-volunteering for Age UK charity, ready to get my first commercial experience;
+- currently IT-volunteering for Age UK charity and freelancing;
 - good at problem-solving and fact-checking, can explain complicated things in simple words and edit text or code to make it readable and understandable;
 - highly experienced in meeting deadlines, communication with clients and stakeholders;
 - happy to learn new languages and frameworks.
@@ -11,6 +11,7 @@
 
 | Name | Description | Technologies | When
 |---|---|---|---|
+[Pasmalves](https://github.com/Gonciarov/pasmalves) | My first paid project, landing page for Pasmalves, Lithuanian vargo transportation company | JavaScript, React, AWS: DynamoDB, Lambda, SES, HTML/CSS | November 2020 |
 | [FoodLeft](https://github.com/Gonciarov/foodleft) | Simple cooking app with API from Edamam | JavaScript, ReactJS, HTML/CSS | October 2020 |
 | [Insta-Clone](https://github.com/Gonciarov/instagram_clone) | Social media MVP with cloud storage | Rails, JavaScript, Postgresql, HTML/CSS/Bootstrap, Devise, CarrierWave/Fog/AWS, Heroku | October 2020 |
 | [Maelstrom](https://github.com/Gonciarov/maelstrom) | RPG with sound and animation, group project | JavaScript, ReactJS, Jest | September 2020 |
