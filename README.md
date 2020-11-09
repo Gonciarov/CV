@@ -1,6 +1,6 @@
 ## Ilja Gonciarov
 
-- brand new junior developer with 10 years of previous career in media environment;
+- junior developer with 10 years of previous career in media environment;
 - alumnus of [Makers Academy](https://makers.tech/) bootcamp (September 2020);
 - currently IT-volunteering for Age UK charity and freelancing;
 - good at problem-solving and fact-checking, can explain complicated things in simple words and edit text or code to make it readable and understandable;
