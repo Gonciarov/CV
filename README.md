@@ -13,7 +13,7 @@
 |---|---|---|---|
 [Pasmalves](https://github.com/Gonciarov/pasmalves) | My first paid project, landing page for Pasmalves, Lithuanian vargo transportation company | JavaScript, React, HTML/CSS. AWS: DynamoDB, Lambda, SES | November 2020 |
 | [FoodLeft](https://github.com/Gonciarov/foodleft) | Simple cooking app with API from Edamam | JavaScript, ReactJS, HTML/CSS | October 2020 |
-| [Insta-Clone](https://github.com/Gonciarov/instagram_clone) | Social media MVP with cloud storage | Rails, JavaScript, Postgresql, HTML/CSS/Bootstrap, Devise, CarrierWave/Fog/AWS, Heroku | October 2020 |
+| [Insta-Clone](https://github.com/Gonciarov/instagram_clone) | Social media MVP with cloud storage | Rails, JavaScript, Postgresql, HTML/CSS/Bootstrap, Devise, CarrierWave/Fog/AWS S3, Heroku | October 2020 |
 | [Maelstrom](https://github.com/Gonciarov/maelstrom) | RPG with sound and animation, group project | JavaScript, ReactJS, Jest | September 2020 |
 |[Acebook](https://github.com/Gonciarov/acebook)| Almost as good as Facebook, but no data collected, group project | Rails, Travis, Heroku | August 2020 |
 | [MakersBNB](https://github.com/Gonciarov/makersbnb) | Airbnb clone, group project | Rails, Postgresql | August 2020 |
