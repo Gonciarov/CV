@@ -20,10 +20,14 @@
 
 ## Work experience
 
-### October 2020 - present
+### November 2020 - present
+
+Freelance work, building websites for companies in the UK and Lithuania. First is [here](https://pasmalves.lt), more to come.
+
+### October 2020
 #### Software volunteer, Age UK, London
 
-Volunteer group project for Age UK charity, working on creating a new volunteers management system (Ruby on Rails/Administrate), communicating with client to understand their needs, developing MVP (in progress).
+Volunteer group project for Age UK charity, working on creating a new volunteers management system (initially Ruby on Rails/Administrate), communicating with client to understand their needs, developing MVP (in progress).
 
 ### October 2019 - present
 #### Freelance digital content producer, London
