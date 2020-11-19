@@ -27,7 +27,7 @@ Freelance work, building websites for companies in the UK and Lithuania. First i
 ### October 2020
 #### Software volunteer, Age UK, London
 
-Volunteer group project for Age UK charity, working on creating a new volunteers management system (initially Ruby on Rails/Administrate), communicating with client to understand their needs, developing MVP (in progress).
+Volunteer group project for Age UK charity, worked on creating a new volunteers management system (initially Ruby on Rails/Administrate, later switched to Airtable), communicated with client to understand their needs, developed MVP, presented the product to client.
 
 ### October 2019 - present
 #### Freelance digital content producer, London
